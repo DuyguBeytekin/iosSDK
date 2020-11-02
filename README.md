@@ -1,6 +1,6 @@
 ### İlk Aşama
 - Podları kurun / pod install
-- `import groups` klasörünü projenize kopyalayın
+- `import groups` ve `sdk` klasörünü projenize kopyalayın
 
 ### Kurulum
 - `AppDelegate` dosyasındaki `didFinishLaunchingWithOptions` fonksiyonunda bulunan `userToken` değerinizi girin
